@@ -32,6 +32,7 @@ MobileNet model was proposed with the aid of google. The MobileNet model was pro
 <img src="Images/MobileNet1.png"></img>
 
 <h7>MobileNet Archietcure:</h7>
+</br>
 <img src="Images/MobileNetTable.jpg"></img>
 
 
