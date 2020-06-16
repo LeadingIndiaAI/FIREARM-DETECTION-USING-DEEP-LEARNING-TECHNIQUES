@@ -17,7 +17,7 @@ ResNet arcitechure and the proposed model gave 95.6% accuracy on a validation da
 </br>
 <img src="Images/Resnet1.png"></img>
 <h7>ResNet Archietcure:</h7>
-<img src="Images/ResNetTable.png"></img>
+<img src="Images/ResNetTable.jpg"></img>
 
 
 <h6>MobileNet Model:</h6>
@@ -26,7 +26,7 @@ MobileNet model was proposed with the aid of google. The MobileNet model was pro
 <img src="Images/MobileNet1.png"></img>
 
 <h7>MobileNet Archietcure:</h7>
-<img src="Images/MobileNetTable.png"></img>
+<img src="Images/MobileNetTable.jpg"></img>
 
 
 
