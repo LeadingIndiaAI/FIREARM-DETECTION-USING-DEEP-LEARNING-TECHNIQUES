@@ -8,9 +8,9 @@ Closed-circuit television (CCTV) systems are normally created with more than one
 
 <h5> Dataset: </h5>
 In the dataset we used Gun dataset as positive dataset and knife dataset as negative images.
-<img src = 'Images/Training.png'></img>
+<img src = 'Images/Training.png' height='200' width = '200'></img>
 </br>
-<img src = 'Images/Validation.png'></img>
+<img src = 'Images/Validation.png' height='200' width = '200'></img>
 </br>
 <h5> Preparing Models: </h5>
 <h6>VGG 16 Model:</h6>
