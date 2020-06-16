@@ -8,4 +8,9 @@ Closed-circuit television (CCTV) systems are normally created with more than one
 
 <h5>Results</h5>
 <h6>VGG 16 Model:<h6>
- ![](Results/VGG.png)
+<img src = 'Results/VGG.png'></img>
+<h6>ResNet Model:<h6>
+<img src = 'Results/ResNet.png'></img>
+<h6>MobileNet Model:<h6>
+<img src = 'Results/MobileNet.png'></img>
+ 
